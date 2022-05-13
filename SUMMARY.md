@@ -13,6 +13,10 @@
 * [Update Dockware](use-impresscms/update-impresscms.md)
 * [Changelog](use-impresscms/changelog.md)
 
+## Development
+
+* [Core Events](development/core-events.md)
+
 ## Features
 
 * [Intro](features/intro.md)
